@@ -3,7 +3,7 @@ module server
 go 1.13
 
 require (
-	github.com/df-mc/dragonfly v0.0.5
+	github.com/df-mc/dragonfly v0.0.6-0.20210601081938-97d307a5f533
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/klauspost/compress v1.12.3 // indirect
