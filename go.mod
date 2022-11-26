@@ -3,7 +3,7 @@ module server
 go 1.18
 
 require (
-	github.com/df-mc/dragonfly v0.8.2
+	github.com/df-mc/dragonfly v0.8.7
 	github.com/pelletier/go-toml v1.9.5
 	github.com/sirupsen/logrus v1.8.1
 )
@@ -20,8 +20,8 @@ require (
 	github.com/klauspost/compress v1.15.7 // indirect
 	github.com/muhammadmuzzammil1998/jsonc v1.0.0 // indirect
 	github.com/rogpeppe/go-internal v1.8.1 // indirect
-	github.com/sandertv/go-raknet v1.11.1 // indirect
-	github.com/sandertv/gophertunnel v1.24.0 // indirect
+	github.com/sandertv/go-raknet v1.12.0 // indirect
+	github.com/sandertv/gophertunnel v1.25.2 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
 	golang.org/x/exp v0.0.0-20220713135740-79cabaa25d75 // indirect
